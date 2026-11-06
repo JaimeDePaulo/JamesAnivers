@@ -1,0 +1,6 @@
+{
+  "name": "Jaime's Birthday Countdown 2026",
+  "description": "Convite digital e contagem regressiva para o aniversário de Jaime Ngalelo de Paulo, no dia 15 de Novembro de 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
